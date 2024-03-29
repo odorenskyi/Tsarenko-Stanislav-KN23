@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1710263769 source:d:\programs\lab08\prj\testdriver\main.cpp
+	<iostream>
+	"ModulesTsarenko.h"
+
+1710262817 d:\programs\lab08\prj\modulestsarenko\modulestsarenko.h
+
+1710263840 source:d:\programs\lab08\prj\modulestsarenko\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<locale.h>
+

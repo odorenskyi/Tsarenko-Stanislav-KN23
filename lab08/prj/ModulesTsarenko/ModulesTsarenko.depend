@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1710258851 source:d:\programs\lab08\prj\modulestsarenko\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<locale.h>
+

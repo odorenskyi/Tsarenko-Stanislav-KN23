@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1710267971 source:d:\programs\lab08\prj\tsarenko_task\main.cpp
+	<iostream>
+
+1710263840 source:d:\programs\lab08\prj\modulestsarenko\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<locale.h>
+
