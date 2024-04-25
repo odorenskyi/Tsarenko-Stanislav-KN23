@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1714076629 source:d:\Стас\Универ\bmtp\tsarenko-stanislav-kn23\lab09\prj\tsarenko_task\main.cpp
+	<iostream>
+	<conio.h>
+	"ModulesTsarenko.h"
+
+1714071753 d:\Стас\Универ\bmtp\tsarenko-stanislav-kn23\lab08\prj\modulestsarenko\modulestsarenko.h
+
