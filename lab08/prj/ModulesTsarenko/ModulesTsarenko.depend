@@ -5,9 +5,13 @@
 	<cmath>
 	<locale.h>
 
-1714072658 source:d:\Стас\Универ\bmtp\tsarenko-stanislav-kn23\lab08\prj\modulestsarenko\main.cpp
+1714421824 source:d:\Стас\Универ\bmtp\tsarenko-stanislav-kn23\lab08\prj\modulestsarenko\main.cpp
 	<iostream>
 	<iomanip>
 	<cmath>
 	<locale.h>
+	<fstream>
+	<string>
+	<unordered_map>
+	<ctime>
 
