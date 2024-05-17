@@ -5,7 +5,7 @@
 #include <vector>
 #include "struct_type_project_5.h"
 
-void printRegistry()
-void addInstitution()
+void printRegistry();
+void addInstitution();
 
 #endif // MODULESZAMAI_H_INCLUDED
